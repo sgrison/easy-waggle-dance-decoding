@@ -2,7 +2,7 @@
 
 # CODE WILL BE UPLOADED WHEN THE PAPER IS RELEASED.
 
-[View video.mp4](./30.03.18_3_10_04.mp4)
+[Example video](./30.03.18_3_10_04.mp4)
 
 EasyWDA is the most efficient and easy-to-use deep learning framework to detect and decode waggle dances.
 
