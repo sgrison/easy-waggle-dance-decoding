@@ -2,6 +2,8 @@
 
 # CODE WILL BE UPLOADED WHEN THE PAPER IS RELEASED.
 
+[View video.mp4](./30.03.18_3_10_04.mp4)
+
 EasyWDA is the most efficient and easy-to-use deep learning framework to detect and decode waggle dances.
 
 This repository shows how to run our code on your own data and obtain the same accuracy metrics as in our paper.
