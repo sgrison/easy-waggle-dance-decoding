@@ -6,7 +6,7 @@
 
 EasyWDA is the first deep learning framework to detect and decode waggle dances in natural conditions.
 
-This repository shows how to run our code on your own data and obtain the same accuracy metrics as in our paper.
+This repository shows how to run our code on our data to obtain the same accuracy metrics as in our paper. You can also easily use it on your own data.
 
 ## 0-Dataset structure
 
