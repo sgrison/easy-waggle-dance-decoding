@@ -4,7 +4,7 @@
 
 [Example video](./30.03.18_3_10_04.mp4)
 
-EasyWDA is the most efficient and easy-to-use deep learning framework to detect and decode waggle dances.
+EasyWDA is the first deep learning framework to detect and decode waggle dances in natural conditions.
 
 This repository shows how to run our code on your own data and obtain the same accuracy metrics as in our paper.
 
@@ -55,7 +55,7 @@ Dataset files can be dowloaded at:
 
 ## 1-Dance Detection
 
-For the detection of the dancing individuals, we adapted the original YOWOv2 network that can be found here : https://github.com/yjh0410/YOWOv2.
+For the detection of the dancing individuals, we adapted the original YOWOv2 network that can be found here : https://github.com/yjh0410/YOWOv2. This video-based approach is crucial to perform a detection of specific behaviors that would be impossible with a classic frame-based approach.
 
 ### Training (command line examples)
 
@@ -109,4 +109,4 @@ WIP
 
 ## 3-Decoding
 
-WIP
+Decoding consistes in the translation of detected dances to geolocalised coordinates.
